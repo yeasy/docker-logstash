@@ -1,4 +1,4 @@
-Bind
+Docker-Logstash
 ===
 Docker images for the logstash.
 
