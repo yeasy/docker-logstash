@@ -6,7 +6,3 @@ MAINTAINER Baohua Yang
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN /opt/logstash/bin/plugin install  --no-verify logstash-codec-netflow
-
-COPY ./netflow.conf /etc/logstash/conf.d/
-
-CMD ["logstash", "agent", "-f", "/etc/logstash/conf.d/"]

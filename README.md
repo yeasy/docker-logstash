@@ -34,9 +34,6 @@ The image is based on official `logstash:1.5`.
 ## add useful plugin
 Add the netflow plugin
 
-## add netflow config
-Receive netflow msg and convert to event and send to elasticsearch.
-
 
 # Supported Docker versions
 
