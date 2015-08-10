@@ -7,13 +7,13 @@ Docker images for the logstash.
 
 * [`latest` (latest/Dockerfile)](https://github.com/yeasy/docker-logstash/blob/master/Dockerfile)
 
-For more information about this image and its history, please see the relevant manifest file in the [`yeasy/docker-logstash` GitHub repo](https://github.com/yeasy/docker-elasticsearch).
+For more information about this image and its history, please see the relevant manifest file in the [`yeasy/docker-logstash` GitHub repo](https://github.com/yeasy/docker-logstash).
 
 # What is docker-logstash?
 Docker image with logstash installed. The image is built based on [logstash 1.5](https://hub.docker.com/_/logstash).
 
 # How to use this image?
-The docker image is auto built at [https://registry.hub.docker.com/u/yeasy/logstash/](https://registry.hub.docker.com/u/yeasy/elasticsearch/).
+The docker image is auto built at [https://registry.hub.docker.com/u/yeasy/logstash/](https://registry.hub.docker.com/u/yeasy/logstash/).
 
 
 ## In Dockerfile
