@@ -6,6 +6,7 @@ Docker images for the logstash.
 # Supported tags and respective Dockerfile links
 
 * [`latest` (latest/Dockerfile)](https://github.com/yeasy/docker-logstash/blob/master/Dockerfile)
+* [`1.5` (latest/Dockerfile)](https://github.com/yeasy/docker-logstash/blob/1.5/Dockerfile)
 
 For more information about this image and its history, please see the relevant manifest file in the [`yeasy/docker-logstash` GitHub repo](https://github.com/yeasy/docker-logstash).
 
